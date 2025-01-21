@@ -105,3 +105,9 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+//Output:
+/*
+A UI design with an option to add devices is displayed. Initially, there are no devices. 
+Users can add device names and toggle them ON/OFF using the toggle button.
+*/
+
